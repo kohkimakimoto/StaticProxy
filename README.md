@@ -1,5 +1,7 @@
 # StaticProxy
 
+[![Build Status](https://travis-ci.org/kohkimakimoto/StaticProxy.svg?branch=master)](https://travis-ci.org/kohkimakimoto/StaticProxy)
+
 StaticProxy provides static interface to an instance method.
 It's heavily inspired by the [Facades](http://laravel.com/docs/facades) of [Laravel](http://laravel.com/).
 
